@@ -36,6 +36,7 @@ def main():
     largest_number = largest_number_array(random_numbers)
 
     print("The largest number generated is: {0} ".format(largest_number))
+    print("\nDone.")
 
 
 if __name__ == "__main__":
